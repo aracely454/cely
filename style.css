@@ -1,0 +1,12 @@
+body {
+   background-color: #e6e6ff;
+ font-family: 'Open Sans Condensed', sans-serif; 
+}  
+
+h1 {
+	font-size: 48px;
+}
+
+img{
+	display: block;
+}
